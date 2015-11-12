@@ -1,2 +1,2 @@
-FROM: busybox
-CMD: ["top"]
+FROM busybox
+CMD ["top"]
